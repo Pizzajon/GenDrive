@@ -1,2 +1,2 @@
 # GenDrive
-for AWS course stuff
+for people to edit
